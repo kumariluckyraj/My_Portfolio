@@ -18,7 +18,7 @@ export default function Home() {
 
 
 
-      <h1 className="text-3xl sm:text-4xl font-bold ">Hi, I'm <span className='text-green-400'> Kumari Lucky Raj</span></h1>
+      <h1 className="text-3xl sm:text-4xl font-bold ">Hi, I&apos;m <span className='text-green-400'> Kumari Lucky Raj</span></h1>
       <p className="max-w-xl text-2xl font-semibold ">
         Full-stack web developer skilled in React,Next.js & core web tech. Currently building an EdTech platform at Tending To Infinity.
       </p>
@@ -144,7 +144,7 @@ export default function Home() {
   >
     Tending To Infinity Academy
   </a>
-        <p className="text-sm text-white font-semibold mt-1">July 2025 – Present</p>
+        <p className="text-sm text-white font-semibold mt-1">July 2025 - Present</p>
         <p className="mt-2 font-medium text-white">
           Built student-educator learning platform with Next.js, Tailwind, and APIs.
         </p>
