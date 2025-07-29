@@ -45,7 +45,7 @@ export default function Home() {
     A full-fledged EdTech platform built for seamless learning experiences between educators and students.
   </p>
   <p className="mt-2">
-    Tech Stack: Next.js, React, Tailwind CSS, TypeScript, BunnyCDN, PostgreSQL, REST APIs
+    Tech Stack: Next.js, React, Tailwind CSS, TypeScript, PostgreSQL, REST APIs
   </p>
 </div>
 
@@ -66,18 +66,7 @@ export default function Home() {
         </p>
       </div>
 
-       <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
-">
-        <a href="https://agnimundal.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
-          AgniMundal
-        </a>
-        <p className=" mt-2 font-semibold">
-          Full-stack website for a Model UN event, supporting registration and authentication.
-        </p>
-        <p className=" mt-2 ">
-          Tech Stack: HTML, CSS, JavaScript, MongoDB, Next.js, NextAuth
-        </p>
-      </div>
+       
 
        <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
 ">
@@ -88,7 +77,7 @@ export default function Home() {
           Full-stack website for a Model UN event, supporting registration and authentication.
         </p>
         <p className=" mt-2 ">
-          Tech Stack: HTML, CSS, JavaScript, MongoDB, Next.js, NextAuth
+          Tech Stack: HTML, CSS, JavaScript, MongoDB, React
         </p>
       </div>
 
