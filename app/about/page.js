@@ -14,7 +14,7 @@ export default function AboutPage() {
         </p>
 
         <p className="text-lg leading-relaxed ">
-          I love bringing ideas to life through code. Some of the projects I&apos;m proud of include <a href="https://agnimundal.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-green-400 hover:underline">AgniMundal</a> — an event registration platform for Model UN participants, and <a href="https://equicraft.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-green-400 hover:underline">EquiCraft</a> — a platform supporting sustainable artisan trade.
+          I love bringing ideas to life through code. Some of the projects I&apos;m proud of include <a href="https://tendingtoinfinityacademy.com/" target="_blank" rel="noopener noreferrer" className="text-green-400 font-bold hover:underline">Tending To Infinity</a> — A full-fledged EdTech platform built for seamless learning experiences between educators and students, and <a href="https://equicraft.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-green-400 font-bold hover:underline">EquiCraft</a> — a platform supporting sustainable artisan trade.
         </p>
 
         <p className="text-lg leading-relaxed ">
