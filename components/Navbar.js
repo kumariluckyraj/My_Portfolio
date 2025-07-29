@@ -70,6 +70,16 @@ const Navbar = () => {
           >
             Experience
           </Link>
+          <Link
+            href="/Kumari_Lucky_Raj_Resume..pdf"
+            className={`ml-4 px-4 py-1 border-2 border-black rounded-md hover:bg-green-400 transition text-base sm:text-lg ${
+              scrolled
+                ? 'text-black hover:bg-yellow-300'
+                : 'text-black hover:bg-green-400'
+            } transition rounded-md`}
+          >
+            Download Resume
+          </Link>
 
           {/* Contact Me button shifted on larger screens */}
           <Link
@@ -83,7 +93,7 @@ const Navbar = () => {
 
       {/* Push page content down to avoid overlap */}
       <div className="h-[120px]" />
-      <TopSocialBar />
+      <TopSocialBar/>
     </>
   )
 }
