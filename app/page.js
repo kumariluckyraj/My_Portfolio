@@ -85,15 +85,32 @@ export default function Home() {
       <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
 ">
         <a href="https://bitlinks-green.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
-          BitLinks
+         CareerCraft AI
         </a>
         <p className=" mt-2 font-semibold">
-          Raises awareness about cultural preservation and eco-conscious practices.
+          An AI-powered platform to generate GitHub READMEs, create repositories, optimize LinkedIn profiles, and analyze resumes using fine-tuned NLP models.
         </p>
         <p className=" mt-2 ">
-          Tech Stack: Next.js, JavaScript, HTML, CSS
+          Tech Stack: Next.js, SQL, Tailwind CSS, TypeScript, OpenAI APIs
         </p>
       </div>
+
+
+
+<div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
+">
+        <a href="https://bitlinks-green.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
+         AI ATS Resume LLM App
+        </a>
+        <p className=" mt-2 font-semibold">
+         Developed an application optimizing resumes for ATS using Google Gemeni APIs, enhancing match rates for job applications.
+        </p>
+        <p className=" mt-2 ">
+          Tech Stack: Google Gemeni APIs, Python, AWS, Google Gemini Pro.
+        </p>
+      </div>
+
+
 
       {/* Project 4 */}
       <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
@@ -103,6 +120,20 @@ export default function Home() {
         </a>
         <p className=" mt-2 font-semibold">
           A web platform promoting cultural and economic awareness.
+        </p>
+        <p className=" mt-2 ">
+          Tech Stack: Next.js, JavaScript, HTML, CSS
+        </p>
+      </div>
+
+        {/* Project 3 */}
+      <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
+">
+        <a href="https://bitlinks-green.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
+          BitLinks
+        </a>
+        <p className=" mt-2 font-semibold">
+          Raises awareness about cultural preservation and eco-conscious practices.
         </p>
         <p className=" mt-2 ">
           Tech Stack: Next.js, JavaScript, HTML, CSS
@@ -123,7 +154,7 @@ export default function Home() {
       <div className="bg-[#020617] p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:scale-105
 ">
         <h3 className="text-2xl font-bold text-green-400 ">
-          Frontend Intern — Tending To Infinity Academy
+          Full Stack Developer Intern — Tending To Infinity Academy
         </h3>
         <a
     href="https://tendingtoinfinityacademy.com/"
@@ -133,7 +164,7 @@ export default function Home() {
   >
     Tending To Infinity Academy
   </a>
-        <p className="text-sm text-white font-semibold mt-1">July 2025 - Present</p>
+        <p className="text-sm text-white font-semibold mt-1">October 2025 - Present</p>
         <p className="mt-2 font-medium text-white">
           Built student-educator learning platform with Next.js, Tailwind, and APIs.
         </p>

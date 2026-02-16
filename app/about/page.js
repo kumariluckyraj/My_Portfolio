@@ -1,6 +1,6 @@
 "use client"
 import React from "react"
-import { useRouter } from "next/navigation"
+import { useRouter } from "next/navigation"//
 export default function AboutPage() {
     const router = useRouter()
   return (
@@ -10,7 +10,7 @@ export default function AboutPage() {
         <h1 className="text-4xl font-extrabold text-green-400">About Me</h1>
 
         <p className="text-lg leading-relaxed ">
-          Hi, I&apos;m <span className=" font-semibold">Kumari Lucky Raj</span> — a full-stack web developer and computer science undergrad based in New Town, Kolkata. I&apos;m currently working as a <strong>Frontend Intern</strong> at <em>Tending To Infinity</em>, where I contribute to building a dynamic EdTech platform using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>.
+          Hi, I&apos;m <span className=" font-semibold">Kumari Lucky Raj</span> — a full-stack web developer and computer science undergrad based in New Town, Kolkata. I&apos;m currently working as a <strong>Full Stack Web Developer Intern</strong> at <em>Tending To Infinity</em>, where I contribute to building a dynamic EdTech platform using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>.
         </p>
 
         <p className="text-lg leading-relaxed ">
