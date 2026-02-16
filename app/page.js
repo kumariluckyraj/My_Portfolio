@@ -99,7 +99,7 @@ export default function Home() {
 
 <div className="bg-white p-6 rounded-xl border border-black hover:border-green-400 transform transition-transform duration-300 hover:-translate-y-2
 ">
-        <a href="resume-ats-tracking.streamlit.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
+        <a href="https://resume-ats-tracking.streamlit.app/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold text-green-400 hover:underline">
          AI ATS Resume LLM App
         </a>
         <p className=" mt-2 font-semibold">
