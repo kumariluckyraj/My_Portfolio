@@ -216,7 +216,11 @@ function Nav() {
     { href: 'https://github.com/kumariluckyraj', label: 'GitHub ↗', external: true },
     { href: 'https://www.linkedin.com/in/kumari-lucky-raj-2a52b0323/', label: 'LinkedIn ↗', external: true },
     { href: 'mailto:kumari.lucky.raj.cse.2023@tint.edu.in', label: 'Email ↗', external: false },
-    { href: '/KUMARI LUCKY RAJ__RESUME_DEVELOPER (1)', label: 'Resume ↗', external: true },
+    {
+  href: '/KUMARI LUCKY RAJ__RESUME_DEVELOPER (1).pdf',
+  label: 'Resume ↗',
+  external: true
+},
     { href: '/contact', label: 'Contact Me ↗', external: false },
     { href: '#projects', label: './projects', external: false },
     { href: '#experience', label: './experience', external: false },
