@@ -259,7 +259,7 @@ function Nav() {
             <a key={label} href={href} target={ext?'_blank':undefined} rel={ext?'noopener noreferrer':undefined}
               style={linkStyle} onMouseEnter={hoverOn} onMouseLeave={hoverOff}>{label}</a>
           ))}
-          <a href="/KUMARI LUCKY RAJ__RESUME_DEVELOPER (1)" target="_blank" rel="noopener noreferrer"
+          <a href="/KUMARI LUCKY RAJ__RESUME_DEVELOPER (1).pdf" target="_blank" rel="noopener noreferrer"
             style={{...linkStyle,padding:'6px 10px',border:'1px solid rgba(0,255,231,.2)',borderRadius:4,color:'var(--neon)'}}
             onMouseEnter={hoverOn} onMouseLeave={hoverOff}>Resume ↗</a>
           <a href="/contact" style={{...linkStyle,padding:'6px 12px',border:'1px solid rgba(0,255,231,.28)',borderRadius:4,color:'#d9fffb',boxShadow:'0 0 10px rgba(0,255,231,.08)'}}
