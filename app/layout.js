@@ -1,7 +1,4 @@
 import './globals.css'
-import Navbar from '@/components/Navbar'
-import Footer from '@/components/Footer'
-
 
 export const metadata = {
   title: 'Kumari Lucky Raj',
@@ -11,11 +8,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className= " font-sans">
-        <Navbar />
-
-        <main >{children}</main>
-        <Footer />
+      <body style={{ margin: 0, padding: 0, background: '#050810', fontFamily: "'Segoe UI', system-ui, sans-serif" }}>
+        <main>{children}</main>
       </body>
     </html>
   )
